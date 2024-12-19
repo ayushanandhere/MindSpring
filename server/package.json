@@ -1,7 +1,7 @@
 {
-  "name": "edusphere-server",
+  "name": "mindspring-server",
   "version": "1.0.0",
-  "description": "EduSphere - A modern learning management platform for managing courses, users, and subscriptions, built with the MERN stack.",
+  "description": "MindSpring - A modern platform for managing courses, users, and subscriptions, built with the MERN stack.",
   "main": "index.js",
   "type": "module",
   "scripts": {
